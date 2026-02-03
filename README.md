@@ -1,8 +1,8 @@
-👤 Account Multi-Step Form
+# 👤 Account Multi-Step Form
 
 - A responsive multi-step form designed for account creation, guiding users through each step with validation and smooth navigation.
 
-🚀 Features
+## 🚀 Features
 
 - Step-by-step account creation flow
 
@@ -14,14 +14,14 @@
 
 - Responsive and mobile-friendly design
 
-🛠️ Built With
+## 🛠️ Built With
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" />
 </p>
 
-▶️ Account Steps
+## ▶️ Account Steps
 
 - Account Details – Username, email, password
 
